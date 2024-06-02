@@ -1,2 +1,2 @@
 # utils_sh
-repositorio para repositorios .sh
+repositorio para utilitários .sh
